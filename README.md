@@ -28,7 +28,7 @@ THERE IS FUXKING PAID PEOPLE KEEP ENJOY FOLLOW FOR MORE FUCKING
 
 - `pkg install git`
 
-- `rm -rf OLD`
+- `rm -rf BYPASS-STORE`
 
 - `git clone https://github.com/Hamii-king-06/BYPASS-STORE`
 
