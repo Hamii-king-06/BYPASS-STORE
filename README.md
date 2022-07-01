@@ -22,7 +22,7 @@ THERE IS FUXKING PAID PEOPLE KEEP ENJOY FOLLOW FOR MORE FUCKING
 
 - `pip install mechanize`
 
-- pip install lolcat`
+- `pip install lolcat`
 
 - `pip install bs4`
 
@@ -30,8 +30,8 @@ THERE IS FUXKING PAID PEOPLE KEEP ENJOY FOLLOW FOR MORE FUCKING
 
 - `rm -rf OLD`
 
-- `git clone https://github.com/Hamii-king-06/OLD`
+- `git clone https://github.com/Hamii-king-06/BYPASS-STORE`
 
-- `cd OLD`
+- `cd BYPASS-STORE`
 
 - `python HBF-OLD.py`
