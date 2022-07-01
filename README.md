@@ -8,3 +8,30 @@
 
 # BYPASS-STORE
 THERE IS FUXKING PAID PEOPLE KEEP ENJOY FOLLOW FOR MORE FUCKING
+# INSTALLATIONS
+
+- `pkg update`
+
+- `pkg upgrade`
+
+- `pkg install python`
+
+- `pkg install python`
+
+- `pip install requests`
+
+- `pip install mechanize`
+
+- pip install lolcat`
+
+- `pip install bs4`
+
+- `pkg install git`
+
+- `rm -rf OLD`
+
+- `git clone https://github.com/Hamii-king-06/OLD`
+
+- `cd OLD`
+
+- `python HBF-OLD.py`
