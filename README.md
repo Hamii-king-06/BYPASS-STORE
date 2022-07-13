@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000¢er=true&vCenter=true&width=360&height=60&lines=Hello+BROTHER%2C+I'm+FUCK+BOY+HAMII+HERE;TODAY+I+WILL+TELL+YOU+;FUCK+ALL+PROGRAMMERS;SYED+SHAWAIZ+KA+REAL+BAAP+HAMII+HERE;FEEL+THE+POWER+OF+YOUR+DAD;SO+LET,S+ENJOY+EVERYBODY+🔥+🤙+%3Av)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000¢er=true&vCenter=true&width=360&height=60&lines=Hello+BROTHER%2C+HAMII+HERE;TODAY+I+WILL+TELL+YOU+;FUCK+ALL+PROGRAMMERS;SYED+SHAWAIZ+KA+REAL+BAAP+HAMII+HERE;FEEL+THE+POWER+OF+YOUR+DAD;SO+LET,S+ENJOY+EVERYBODY+🔥+🤙+%3Av)](https://git.io/typing-svg)
 
  
 
