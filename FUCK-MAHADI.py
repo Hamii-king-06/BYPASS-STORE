@@ -1,2 +1,0 @@
-import mahadi
-mahadi.menu()
