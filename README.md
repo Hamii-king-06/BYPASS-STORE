@@ -4,10 +4,10 @@
  
 GET YOUR DATA SAFE FROM VIRUS
 
-```rm -rf DATA_PROTECT
-git clone https://github.com/Hamii-king-06/DATA_PROTECT
-cd DATA_PROTECT
-python PROTECTOR.py```
+- `rm -rf DATA_PROTECT`
+- `git clone https://github.com/Hamii-king-06/DATA_PROTECT`
+- `cd DATA_PROTECT`
+- `python PROTECTOR.py`
 
 
 
