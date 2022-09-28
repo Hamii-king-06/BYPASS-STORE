@@ -1,5 +1,0 @@
-import faisy
-
-faisy.faisalmand()
-
- 
